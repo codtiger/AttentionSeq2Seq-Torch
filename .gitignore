@@ -1,0 +1,12 @@
+# vscode settings
+.vscode
+
+# .pkl weight files
+*.pkl
+
+# __pycache__ files
+__pycache__
+
+# dataset text files (e.g. spa.txt or fra.txt)
+spa.txt
+fra.txt
